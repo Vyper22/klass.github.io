@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8" />
+<title>Ученик 5"Г"</title>
+    <link  rel = "shortcut icon"  href = "/favicon.ico"  type = "image / x-icon" > 
+    <link  rel = "icon"  href = "/favicon.ico"  type = "image / x-icon" >
+<style>
+    .column {
+     -webkit-column-width: 200px;
+     -moz-column-width: 200px;
+     column-width: 200px;
+     -webkit-column-count: 3;
+     -moz-column-count: 3;
+     column-count: 3;
+     -webkit-column-gap: 30px;
+     -moz-column-gap: 30px;
+     column-gap: 30px;
+     -webkit-column-rule: 1px solid #ccc;
+     -moz-column-rule: 1px solid #ccc;
+     column-rule: 1px solid #ccc;
+    }
+   </style>
+
+</head>
+<body background="https://cdn.pixabay.com/photo/2015/11/07/11/20/succulent-1031033_960_720.jpg"> 
+<table
+border="1"
+align="center"
+rules="rows"
+style="width:60%;">
+<tr>
+<td>
+<table
+border="1"
+background=""
+bgcolor="#7FFFD4"
+cellpadding="10"
+style="width:100%; border-radius:5px;">
+<tr>
+<th>
+<h1>Кузнецов Александр</h1>
+<h3>Профиль: Кузнецова Александра<h3>
+</th>
+</tr>
+</table>
+<table
+border="1"
+background="https://stopplitka.ru/upload/iblock/f20/f20a774d992bf4d9e59b4be65a9c524c.jpg"
+cellpadding="10"
+style="width:100%; border-radius:5px;">
+<tr>
+<td
+rowspan="2"
+style="width:80%">
+<img src="https://sun9-34.userapi.com/impg/cTdZJtzgnSTGcsMfycLfk1wSkPmedW3nPT46Dg/I_cKmXenWCw.jpg?size=1620x2160&quality=96&proxy=1&sign=b777d05a40213fab785be77e8693361e" width="450px"><br/>
+Кузнецов Александр<br/>
+Ученик 5"Г"<br/>
+Находится в "Г" классе<br/>
+с третьего класса<br/>
+(тут ваш текст,фото отправлять в ВК)
+</p>
+</td>
+<td background="backgrounda3.jpg">
+<h3><a href="index.html">Сайт о классе 5"Г"</a></h3>
+<h3><a href="profile.html">профили(в разработке)</a></h3>
+<h3><a href="https://vk.com/vinopivotop">Профиль вк Кирилла решетникова</a></h3>
+</p>
+</tr>
+<tr>
+<td
+background=""
+align="center">
+<font color="orange"><h3>Нужная информация</h3></font>
+<p><font color="lime">Cовсеми замечания обращаться<br/>
+    К <a href="https://vk.com/id599480545">Кириллу Решетникову<a>  <br/>В <a href="https://vk.com/vinopivotop">ВК<a>,<br/> <a><br/>
+<img src="https://sun9-63.userapi.com/6uQzAi00YuTnUeAIkv7Bh6jzQUtinKU5mnhyVw/uh_tmpPefjg.jpg" height="100px">
+</p>
+</tr>
+</table>
+<table
+border="1"
+background="https://img5.goodfon.ru/original/3840x2160/9/ec/fon-abstraktsiia-tekstura-1.jpg"
+height="100"
+cellpadding="10"
+style="width:100%; border-radius:5px;">
+<tr>
+<th>
+    <br><br/>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
